@@ -1,0 +1,76 @@
+
+
+.homecenter>img{
+   
+    height: 700px;
+    width: 691px ;
+}
+
+.homeheader {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+
+
+.homeheader>p{
+    margin-left: -500px;
+    font-weight: 500;
+}
+.homelike{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+   
+}
+
+.like{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 15vw;
+    margin-left: 50px;
+    
+    
+}
+
+.homecomment{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    justify-content: space-evenly;
+    width: 25vw;
+    margin-left: 20px;
+    font-weight: 400;
+}
+
+
+
+.homeform>input{
+    border: none;
+    width: 250px;
+    padding: 10px;
+    outline: none;
+    font-size: large;
+
+}
+
+.homeform>button{
+    outline: none;
+    border: none;
+    color: #4267B2;
+    background-color: white;
+    font-size: large;
+    margin-right: 15px;
+
+}
+.homeform{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 15px;
+    border-top: 1px solid lightgray;
+   
+    
+}
